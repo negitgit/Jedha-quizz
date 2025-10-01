@@ -75,4 +75,4 @@ if __name__ == "__main__":
     jeu = Quizz(questionlist, vies=3)
     # on démarre le jeu
     jeu.jouer()
-#Test du lien pycharm et github
+#Test du lien pycharm et github..
